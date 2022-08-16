@@ -1,0 +1,10 @@
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\bin\Debug\sinema_büfe_satıs.exe.config
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\bin\Debug\sinema_büfe_satıs.exe
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\bin\Debug\sinema_büfe_satıs.pdb
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\obj\Debug\sinema_büfe_satıs.csprojAssemblyReference.cache
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\obj\Debug\sinema_büfe_satıs.Properties.Resources.resources
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\obj\Debug\sinema_büfe_satıs.csproj.GenerateResource.cache
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\obj\Debug\sinema_büfe_satıs.csproj.CoreCompileInputs.cache
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\obj\Debug\sinema_büfe_satıs.exe
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\obj\Debug\sinema_büfe_satıs.pdb
+C:\Users\SERPİL\Source\Repos\sinema_büfe_satıs\sinema_büfe_satıs\obj\Debug\sinema_büfe_satıs.Form1.resources
